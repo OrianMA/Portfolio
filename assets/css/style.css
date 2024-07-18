@@ -3,12 +3,12 @@
 
 .header{
   background-color:#2e8b57;
-  background-image:url("../img/touring.jpg");
+  background-image:url("../img/Coffe.jpg");
   background-size:cover;
   background-position:center center;
   color:#fff;
   padding:0;
-  height:3em
+  height:3em  
 }
 
 .header 
